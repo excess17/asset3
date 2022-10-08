@@ -1,0 +1,7 @@
+code: asset3
+description: asset3
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  assets:
+    - assets/40/40-descriptor.yaml
